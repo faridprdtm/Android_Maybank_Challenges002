@@ -2,9 +2,9 @@ package com.farid.challenges002;
 
 public class Konfigurasi {
     //url dimana web api berada
-    public  static final String URL_GET_ALL = "http://192.168.145.127/nasabah/tampilSemuaNasabah.php";
-    public static final  String URL_GET_DETAIL = "http://192.168.145.127/nasabah/tampilNasabah.php?id=";
-//    public static final String URL_ADD ="http://192.168.145.127t/pegawai/tambahPgw.php";
+    public  static final String URL_GET_ALL = "http://192.168.107.127/nasabah/tampilSemuaNasabah.php";
+    public static final  String URL_GET_DETAIL = "http://192.168.107.127/nasabah/tampilNasabah.php?id=";
+//    public static final String URL_ADD ="http://192.168.145.127/pegawai/tambahPgw.php";
 //    public static final String URL_UPDATE="http://192.168.145.127/pegawai/updatePgw.php";
 //    public static final String URL_DELETE="http://192.168.145.127/pegawai/hapusPgw.php";
 
